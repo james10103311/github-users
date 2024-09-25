@@ -291,10 +291,10 @@
 		D8FB7A6F2CA160C200BBF984 /* TymeXTests */ = {
 			isa = PBXGroup;
 			children = (
+				D827AD332CA3C97C006EA4F4 /* IntegrationTests.swift */,
 				D846A6832CA2BCD200B6770A /* ViewModels */,
 				D846A6922CA2C6DC00B6770A /* Services */,
 				D827AD322CA3C8A6006EA4F4 /* MockData */,
-				D827AD332CA3C97C006EA4F4 /* IntegrationTests.swift */,
 			);
 			path = TymeXTests;
 			sourceTree = "<group>";
